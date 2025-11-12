@@ -1,0 +1,19 @@
+# Archivos de entorno
+.env
+*.env
+
+# Archivos temporales
+__pycache__/
+*.pyc
+.DS_Store
+
+# Datos grandes
+data/*.csv
+data/*.xlsx
+
+# Archivos de notebooks temporales
+.ipynb_checkpoints/
+
+# Carpetas del entorno virtual
+venv/
+.env/
